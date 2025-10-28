@@ -10,7 +10,6 @@
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)](https://vitejs.dev/)
 [![AG Grid](https://img.shields.io/badge/AG--Grid-000000?logo=ag--grid&logoColor=white&style=flat-square)](https://www.ag-grid.com/)
 [![Plotly](https://img.shields.io/badge/-Plotly-326FEA?logo=plotly&logoColor=white&style=flat-square)](https://plotly.com/javascript/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is an AI-powered spreadsheet application designed to provide an interactive and intuitive user experience for data analysis and manipulation. It features a conversational AI interface that allows users to perform complex operations on their data using natural language, along with a robust data grid and charting capabilities.
 
@@ -184,7 +183,3 @@ Contributions are welcome! Please follow these steps:
 3. Implement your changes.
 4. Ensure tests pass and code adheres to style guidelines.
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
